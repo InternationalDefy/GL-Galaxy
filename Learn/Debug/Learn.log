@@ -1,0 +1,90 @@
+﻿  glad.c
+  main.cpp
+f:\learn-opengl\galaxy\learn\main.cpp(47): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  specrend.cpp
+  stb_image.cpp
+  galaxy_functions.cpp
+f:\learn-opengl\galaxy\learn\galaxy_functions.cpp(25): warning C4244: “+=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+f:\learn-opengl\galaxy\learn\galaxy_functions.cpp(26): warning C4244: “+=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+f:\learn-opengl\galaxy\learn\galaxy_functions.cpp(225): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  galaxy_systems.cpp
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(53): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(184): warning C4305: “参数”: 从“double”到“_Ty”截断
+          with
+          [
+              _Ty=float
+          ]
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(185): warning C4305: “参数”: 从“double”到“_Ty”截断
+          with
+          [
+              _Ty=float
+          ]
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(186): warning C4305: “参数”: 从“double”到“_Ty”截断
+          with
+          [
+              _Ty=float
+          ]
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(187): warning C4305: “参数”: 从“double”到“_Ty”截断
+          with
+          [
+              _Ty=float
+          ]
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(188): warning C4305: “参数”: 从“double”到“_Ty”截断
+          with
+          [
+              _Ty=float
+          ]
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(189): warning C4305: “参数”: 从“double”到“_Ty”截断
+          with
+          [
+              _Ty=float
+          ]
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(190): warning C4305: “参数”: 从“double”到“_Ty”截断
+          with
+          [
+              _Ty=float
+          ]
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(191): warning C4305: “参数”: 从“double”到“_Ty”截断
+          with
+          [
+              _Ty=float
+          ]
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(192): warning C4305: “参数”: 从“double”到“_Ty”截断
+          with
+          [
+              _Ty=float
+          ]
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(194): warning C4305: “参数”: 从“double”到“_Ty”截断
+          with
+          [
+              _Ty=float
+          ]
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(212): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(225): warning C4305: “初始化”: 从“double”到“float”截断
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(226): warning C4305: “初始化”: 从“double”到“float”截断
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(234): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(243): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(253): warning C4305: “初始化”: 从“double”到“float”截断
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(256): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(410): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(443): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(445): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(446): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(447): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(482): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(485): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(486): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(487): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\learn-opengl\galaxy\learn\galaxy_systems.cpp(523): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  galaxy_components.cpp
+  正在生成代码...
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  Learn.vcxproj -> F:\Learn-OpenGL\Galaxy\Debug\Learn.exe

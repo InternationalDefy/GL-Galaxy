@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\galaxy_headers">
+      <UniqueIdentifier>{a0f47166-a2e7-4962-a70b-f465561c7f67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\galaxu_sources">
+      <UniqueIdentifier>{37dd8a47-8847-4965-bc68-2026fd63b3da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\support">
+      <UniqueIdentifier>{a35fcba9-ccee-409c-92e3-8def4dde9b43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\support">
+      <UniqueIdentifier>{72b74c1b-fa53-4386-b1c9-6f9d58d5d75f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\GLFW\glad\src\glad.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="galaxy_systems.cpp">
+      <Filter>源文件\galaxu_sources</Filter>
+    </ClCompile>
+    <ClCompile Include="galaxy_functions.cpp">
+      <Filter>源文件\galaxu_sources</Filter>
+    </ClCompile>
+    <ClCompile Include="galaxy_components.cpp">
+      <Filter>源文件\galaxu_sources</Filter>
+    </ClCompile>
+    <ClCompile Include="specrend.cpp">
+      <Filter>源文件\support</Filter>
+    </ClCompile>
+    <ClCompile Include="stb_image.cpp">
+      <Filter>源文件\support</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="galaxy_components.h">
+      <Filter>头文件\galaxy_headers</Filter>
+    </ClInclude>
+    <ClInclude Include="galaxy_systems.h">
+      <Filter>头文件\galaxy_headers</Filter>
+    </ClInclude>
+    <ClInclude Include="galaxy_defines.h">
+      <Filter>头文件\galaxy_headers</Filter>
+    </ClInclude>
+    <ClInclude Include="galaxy_functions.h">
+      <Filter>头文件\galaxy_headers</Filter>
+    </ClInclude>
+    <ClInclude Include="specrend.h">
+      <Filter>头文件\support</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image.h">
+      <Filter>头文件\support</Filter>
+    </ClInclude>
+    <ClInclude Include="shader_class.h">
+      <Filter>头文件\support</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>头文件\support</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="particle.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="basic.png">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
